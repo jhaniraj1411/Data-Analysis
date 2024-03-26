@@ -9,11 +9,11 @@ We need to analyze key indicators for our pizza sales data to gain insights into
 
 ## Tools and Technologies:
 
-Programming Languages: SQL
-Data Visualization Tools: Power BI
-Database Management: SQL Server, MySQL
-Version Control: Git, GitHub
-Contributions and Feedback:
+####	Programming Languages: SQL
+####	Data Visualization Tools: Power BI
+####	Database Management: SQL Server, MySQL
+####	Version Control: Git, GitHub
+####	Contributions and Feedback:
 I welcome contributions, feedback, and suggestions to further enhance the projects and foster collaborative learning within the data community. Feel free to explore the projects, engage in discussions, and contribute to the advancement of data analytics knowledge.
 
 Thank you for visiting my Data Analyst Portfolio repository. Let's embark on a journey of discovery and innovation through data-driven insights!
